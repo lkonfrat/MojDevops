@@ -2,8 +2,8 @@
 
 Toto je moj projekt
 
-*prvy
-*druhy
-*treti
+* prvy
+* druhy
+* treti
 
-a je to **SUPER !
+a je to **SUPER !**
