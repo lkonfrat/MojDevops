@@ -6,3 +6,4 @@ Popis online kurzu
  
 
 toto som doplnil+546574351354351 
+* dnes sa mi vobec nic nedari, lebo som lava
