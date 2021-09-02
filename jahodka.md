@@ -5,7 +5,12 @@ Popis online kurzu
 **aaaa**
  
 
+<<<<<<< HEAD
 toto som doplnil+54657435135435
 
 
 fnejetuklryill1 
+=======
+toto som doplnil+546574351354351 
+* dnes sa mi vobec nic nedari, lebo som lava
+>>>>>>> 0dd453b231811646c03ef766b887073053f94746
