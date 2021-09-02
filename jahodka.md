@@ -4,4 +4,4 @@ Java patrí k tým najrozšírenejším a najpoužívanejším programovacím ja
 
 **V tomto online kurze ti lektor Jaro vysvetlí Javu cez históriu, základné pojmy**, nastavenie prostredia až po rôzne výnimky, vychytávky a dostaneš sa až k samotnému programovaniu.
 
-V úvodnom videu nájdeš trochu motivácie na úvod. Dozvieš sa okrem iného, prečo je dobré sa učiť programovať v Jave, koľko pracovných pozícií pre Java programátorov je voľných a aká veľká je Java komunita.
+
